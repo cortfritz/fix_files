@@ -3,6 +3,8 @@ defmodule FixFiles do
   Documentation for `FixFiles`.
   """
 
+  # unsupported charachters:  \  /  "   :  < >  |  *  ?
+
   @doc """
   Hello world.
 

@@ -1,0 +1,50 @@
+ foo< bar
+bar 
+fine
+foo 
+foo >bar 
+foo"bar
+foo*bar
+foo.bar
+foo:::bar
+foo:bar
+foo?bar
+foo\bar
+foo|bar
+is
+manifest
+sub3
+this
+
+./sub3:
+fine
+is
+sub2
+this
+
+./sub3/sub2:
+ foo< bar
+bar 
+foo 
+foo >bar 
+foo"bar
+foo*bar
+foo.bar
+foo:::bar
+foo:bar
+foo?bar
+foo\bar
+foo|bar
+sub
+
+./sub3/sub2/sub:
+foo 
+foo >bar 
+foo"bar
+foo*bar
+foo.bar
+foo:::bar
+foo:bar
+foo?bar
+foo\bar
+foo|bar
