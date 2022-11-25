@@ -1,0 +1,158 @@
+info: _2022_11_24_22_36_25 rename data.log to ./data.log_2022_11_24_22_36_25
+info: _2022_11_24_22_36_25 rename failed, file already existed
+info: _2022_11_24_22_36_25 trying new filepath: sandbox/test1/template/my_dir_unique_ERVF
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo:::bar to sandbox/test1/template/my_dir_unique_ERVF/foo___bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo|bar to sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo\bar to sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo*bar to sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo >bar  to sandbox/test1/template/my_dir_unique_ERVF/foo _bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo  to sandbox/test1/template/my_dir_unique_ERVF/foo
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo?bar to sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo:bar to sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_ERVF/foo"bar to sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_ERVF/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo:::bar to sandbox/test1/template/my_dir98723/foo___bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo|bar to sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo\bar to sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo*bar to sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo >bar  to sandbox/test1/template/my_dir98723/foo _bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo  to sandbox/test1/template/my_dir98723/foo
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo?bar to sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo:bar to sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir98723/foo"bar to sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir98723/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/myu dir_/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/myu dir_/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/myu dir_/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/myu dir_/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/myu dir_/foo _bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo:::bar to sandbox/test1/template/my_dir_unique_KXZK/foo___bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo|bar to sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo\bar to sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo*bar to sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo >bar  to sandbox/test1/template/my_dir_unique_KXZK/foo _bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my:dir to sandbox/test1/template/my_dir_unique_KXZK/my_dir
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my"dir to sandbox/test1/template/my_dir_unique_KXZK/my_dir
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo:::bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo___bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo|bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo\bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo*bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo >bar  to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo _bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo  to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo?bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo:bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo"bar to sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo  to sandbox/test1/template/my_dir_unique_KXZK/foo
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo?bar to sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/my_dir/foo _bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo:bar to sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 rename sandbox/test1/template/my_dir_unique_KXZK/foo"bar to sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir_unique_KXZK/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/sub/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/sub/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/sub/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/sub/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/sub/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/foo_ bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/sub2/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/is
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/this
+info: _2022_11_24_22_36_25 sandbox/test1/template/sub3/fine
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/my_dir/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/manifest
+info: _2022_11_24_22_36_25 sandbox/test1/template/is
+info: _2022_11_24_22_36_25 sandbox/test1/template/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/foo
+info: _2022_11_24_22_36_25 sandbox/test1/template/this
+info: _2022_11_24_22_36_25 sandbox/test1/template/foo_ bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/bar
+info: _2022_11_24_22_36_25 sandbox/test1/template/fine
+info: _2022_11_24_22_36_25 sandbox/test1/template/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo__bar_
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo_
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/sub/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/_foo__bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo__bar_
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo_
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/bar_
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo_ bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/sub2/foo _bar
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/is
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/this
+info: _2022_11_24_22_36_25 sandbox/test1/sub3/fine
+info: _2022_11_24_22_36_25 sandbox/test1/_foo__bar
+info: _2022_11_24_22_36_25 sandbox/test1/foo__bar_
+info: _2022_11_24_22_36_25 sandbox/test1/foo_
+info: _2022_11_24_22_36_25 sandbox/test1/manifest
+info: _2022_11_24_22_36_25 sandbox/test1/is
+info: _2022_11_24_22_36_25 sandbox/test1/foo.bar
+info: _2022_11_24_22_36_25 sandbox/test1/foo_bar
+info: _2022_11_24_22_36_25 sandbox/test1/bar_
+info: _2022_11_24_22_36_25 sandbox/test1/foo___bar
+info: _2022_11_24_22_36_25 sandbox/test1/foo
+info: _2022_11_24_22_36_25 sandbox/test1/this
+info: _2022_11_24_22_36_25 sandbox/test1/foo_ bar
+info: _2022_11_24_22_36_25 sandbox/test1/bar
+info: _2022_11_24_22_36_25 sandbox/test1/fine
+info: _2022_11_24_22_36_25 sandbox/test1/foo _bar
