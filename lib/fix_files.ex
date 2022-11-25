@@ -55,15 +55,15 @@ defmodule FixFiles do
       true ->
         new_file = file
         |> String.trim
-        |> String.replace("\\", "_")
-        |> String.replace("\/", "_")
-        |> String.replace("\"", "_")
-        |> String.replace(":", "_")
-        |> String.replace("<", "_")
-        |> String.replace(">", "_")
-        |> String.replace("|", "_")
-        |> String.replace("*", "_")
-        |> String.replace("?", "_")
+        |> String.replace("\\", "-")
+        |> String.replace("\/", "-")
+        |> String.replace("\"", "-")
+        |> String.replace(":", "-")
+        |> String.replace("<", "-")
+        |> String.replace(">", "-")
+        |> String.replace("|", "-")
+        |> String.replace("*", "-")
+        |> String.replace("?", "-")
 
         cond do
           file != new_file ->
@@ -84,7 +84,7 @@ defmodule FixFiles do
         new_filepath
       {:error, :eexist} ->
         log("rename failed, file already existed", logfile)
-        new_filepath = new_filepath <> "_unique_" <> string_of_length(4)
+        new_filepath = new_filepath <> "-DUP-" <> string_of_length(4)
         log("trying new filepath: " <> new_filepath, logfile)
         File.rename!(filepath, new_filepath)
         new_filepath
@@ -114,8 +114,8 @@ defmodule FixFiles do
       |> Tuple.to_list
       |> Enum.map(fn x -> Tuple.to_list(x) end)
 
-    filename <> "_" <> Enum.join(date, "_") <>
-      "_" <> Enum.join(time, "_")
+    filename <> "_" <> Enum.join(date, "-") <>
+      "_" <> Enum.join(time, "-")
   end
 
   defp expand({:ok, files}, path, logfile) do
